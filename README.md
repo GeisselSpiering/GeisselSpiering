@@ -1,9 +1,9 @@
 ## Olá! Sou o Geissel Spiering! 
 
 
-- 📚 Curso Análise e Desenvolvimento de Sistemas no Unilasalle
+- 📚 Cursando Análise e Desenvolvimento de Sistemas no Unilasalle
 - ✨ Atualmente também estou fazendo o curso _Aprendendo programação básica e avançada com Linguagem C++_ pela Udemy
-- 🌎 Amo viajar e conhecer novos lugares e culturas
+- 🌎 Amo viajar e conhecer novos lugares
 - 🚀 Sou adepto ao trabalho colaborativo! Juntos, podemos transformar muitas realidades!
 
 
