@@ -2,7 +2,7 @@
 
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- ✨ Atualmente também estou aprendendo e aperfeiçoando conhecimentos em HTML, CSS e JavaScritp
+- ✨ Atualmente também estou aprendendo e aperfeiçoando conhecimentos em HTML, CSS e JavaScript
 - 🌎 Amo viajar e conhecer novos lugares
 - 🚀 Sou adepto ao trabalho colaborativo! Juntos, podemos transformar muitas realidades!
 
